@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Garance LAMBEY - Software Engineer | C/C++ | DevOps
 
-<!--
-**ecnaraga/ecnaraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
+![alt text](C_Logo1-1.png)
+![alt text](C++_Logo.svg1.png)
+![alt text](<ChatGPT Image Feb 9, 2026, 01_38_21 PM.png>)
+![alt text](Python2-1.png)
+![alt text](django1-1.png)
+![alt text](Javascript1-1.png)
+![alt text](docker1.png)
+![alt text](<ChatGPT Image Feb 9, 2026, 01_45_23 PM.png>)
 
-Here are some ideas to get you started:
+## 👩‍🎓 Education
+- Student at **42PARIS**
+- Currently looking for an **Internship** or **Apprenticeship** for April 2026 or September 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- [Linkedin profile](https://www.linkedin.com/in/garance-lambey-1b6128188/)
+- [garance.lambey@gmail.com](mailto:garance.lambey@gmail.com)
+
