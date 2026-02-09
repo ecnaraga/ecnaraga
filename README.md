@@ -9,6 +9,10 @@
 ![alt text](Javascript.png)
 ![alt text](Docker.png)
 ![alt text](Kubernetes.png)
+![alt text](Vagrant.png)
+- **Languages** : C, C++98, ASM, HTML, CSS, Javascript, Python, Bash
+- **Frameworks** : Django, Django Rest, Django Channel
+- **Tools and Environment** : Docker, Kubernetes, Vagrant, Oracle VirtualBox, Linux
 ## 👩‍🎓 Education
 - Student at **42PARIS**
 - Currently looking for an **Internship** or **Apprenticeship** for April 2026 or September 2026
