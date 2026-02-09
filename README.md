@@ -1,4 +1,4 @@
-# 👋 Garance LAMBEY - Software Engineer | C/C++ | DevOps
+# 👋 Garance LAMBEY - Software Engineer | C/C++ | Fullstack | DevOps
 
 ## My Stack
 ![alt text](C.png)
